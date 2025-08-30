@@ -1,7 +1,5 @@
 {
-  "url": "https://nft.stablemetal.com/",
+  "url": "https://nft.stablemetal.com",
   "name": "STBL",
-  "iconUrl": "https://raw.githubusercontent.com/llex1/stbl-manifest/master/stbl-logo_600x600.webp",
-  "bridgeUrl": "https://bridge.tonapi.io/bridge",
-  "version": "2"
+  "iconUrl": "https://raw.githubusercontent.com/llex1/stbl-manifest/master/stbl-logo_600x600.webp"
 }
